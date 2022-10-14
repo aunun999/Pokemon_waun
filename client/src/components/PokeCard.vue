@@ -72,5 +72,5 @@ import { usePokeStore } from '../stores/poke';
 </script>
 
 <style>
-
+  
 </style>

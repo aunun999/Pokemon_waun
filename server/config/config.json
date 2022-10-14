@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "namaaun",
+    "database": "pokeAun_dev",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 4320
+  },
+  "test": {
+    "username": "postgres",
+    "password": "namaaun",
+    "database": "pokeAun_test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 4320
+  },
+  "production": {
+    "username": "postgres",
+    "password": "namaaun",
+    "database": "pokeAun_pro",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 4320
+  }
+}
